@@ -1,0 +1,36 @@
+ /* Estilizando o projeto */
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #682222;
+    color: #fffefe;
+    text-align: center;
+}
+
+h1 {
+    color: #fcfbfb;
+    text-align: center;
+}
+
+h2 {
+    color: #fffcfc;
+    border-bottom: 2px solid #f9f8f8;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    text-align: center;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 8px;
+}
